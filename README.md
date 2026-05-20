@@ -12,6 +12,13 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 
 ---
 
+### 📱 Mis Aplicaciones
+[![](https://img.shields.io/badge/Google_Play-Maps_%26_Plugins-00875F?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pocketmine.mapsandplugins)
+
+*Descarga mi app oficial para comprar los mejores **Mapas** y **Plugins de PocketMine** directamente en la Play Store.*
+
+---
+
 ### 🛠️ Tecnologías y Lenguajes
 
 #### 💻 Backend & System
@@ -41,8 +48,8 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 
 ### 🌐 Conéctate Conmigo
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AssassinGhostYT)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AssassinGhostYT)
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AssassinGhost_)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/assassinghostyt)
 
 ---
 
