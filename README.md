@@ -39,9 +39,9 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=A970FF&icon_color=A970FF&text_color=ffffff" alt="AssassinGhostYT's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=A970FF&icon_color=A970FF&text_color=ffffff" alt="AssassinGhostYT's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssassinGhostYT&layout=compact&theme=dracula&bg_color=1a1b27&title_color=A970FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AssassinGhostYT&layout=compact&theme=dracula&bg_color=1a1b27&title_color=A970FF&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
