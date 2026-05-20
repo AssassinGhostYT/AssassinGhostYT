@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- Header Capsule Animation -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=AssassinGhostYT&fontSize=80&animation=fadeIn&fontAlignY=38&desc=YouTuber%20%7C%20Builder%20%7C%20Developer&descSize=20&descAlignY=62" alt="Header" />
-
-### 🎮 YouTuber & Professional Minecraft Bedrock Map Builder 🏗️
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Software+Developer;YouTuber+%26+Content+Creator;Professional+Map+Builder;Bedrock+Engine+Expert" alt="Typing SVG" />
+<!-- New Stable & Beautiful Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=A970FF&center=true&vCenter=true&width=1000&height=100&lines=ASSASSINGHOSTYT" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=YouTuber+%7C+Professional+Builder+%7C+Developer" alt="Subheader" />
 
 ---
 
-<!-- GitHub Trophies -->
 ### 🏆 Mis Logros
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AssassinGhostYT&theme=dracula&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
