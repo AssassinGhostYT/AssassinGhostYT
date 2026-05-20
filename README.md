@@ -1,9 +1,17 @@
 <div align="center">
 
-# 👋 Hola, soy AssassinGhostYT
+<!-- Header Capsule Animation -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=AssassinGhostYT&fontSize=80&animation=fadeIn&fontAlignY=38&desc=YouTuber%20%7C%20Builder%20%7C%20Developer&descSize=20&descAlignY=62" alt="Header" />
+
 ### 🎮 YouTuber & Professional Minecraft Bedrock Map Builder 🏗️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Software+Developer;YouTuber+%26+Content+Creator;Professional+Map+Builder;Bedrock+Engine+Expert" alt="Typing SVG" />
+
+---
+
+<!-- GitHub Trophies -->
+### 🏆 Mis Logros
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AssassinGhostYT&theme=dracula&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -37,11 +45,11 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad y Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=A970FF&icon_color=A970FF&text_color=ffffff" alt="AssassinGhostYT's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=A970FF&icon_color=A970FF&text_color=ffffff" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AssassinGhostYT&layout=compact&theme=dracula&bg_color=1a1b27&title_color=A970FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AssassinGhostYT&theme=dracula&bg_color=1a1b27&color=A970FF&line=A970FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -57,6 +65,11 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 *   **Diseño de Lobbies:** Creación de puntos de aparición (spawns) únicos y optimizados para grandes redes de servidores.
 *   **Desarrollo de Plugins/Addons:** Experto en lógica de juego personalizada para Bedrock.
 *   **Calidad Garantizada:** Enfoque en la eficiencia del código y la estética visual.
+
+---
+
+<!-- Dynamic Tech Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 
 ---
 
