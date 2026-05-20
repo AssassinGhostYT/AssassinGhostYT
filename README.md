@@ -39,9 +39,9 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="AssassinGhostYT's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AssassinGhostYT&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=A970FF&icon_color=A970FF&text_color=ffffff" alt="AssassinGhostYT's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssassinGhostYT&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssassinGhostYT&layout=compact&theme=dracula&bg_color=1a1b27&title_color=A970FF&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
@@ -57,5 +57,9 @@ Soy un desarrollador apasionado y creador de contenido enfocado en el ecosistema
 *   **Diseño de Lobbies:** Creación de puntos de aparición (spawns) únicos y optimizados para grandes redes de servidores.
 *   **Desarrollo de Plugins/Addons:** Experto en lógica de juego personalizada para Bedrock.
 *   **Calidad Garantizada:** Enfoque en la eficiencia del código y la estética visual.
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=AssassinGhostYT&color=A970FF&style=flat-square&label=VISITORS" alt="Visitor Count" />
 
 </div>
